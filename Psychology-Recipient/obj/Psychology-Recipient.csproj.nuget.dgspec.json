@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/xaogao/Documents/Psychology-Recipient/Psychology-Recipient/Psychology-Recipient.csproj": {}
+  },
+  "projects": {
+    "/home/xaogao/Documents/Psychology-Recipient/Psychology-Recipient/Psychology-Recipient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/xaogao/Documents/Psychology-Recipient/Psychology-Recipient/Psychology-Recipient.csproj",
+        "projectName": "Psychology-Recipient",
+        "projectPath": "/home/xaogao/Documents/Psychology-Recipient/Psychology-Recipient/Psychology-Recipient.csproj",
+        "packagesPath": "/home/xaogao/.nuget/packages/",
+        "outputPath": "/home/xaogao/Documents/Psychology-Recipient/Psychology-Recipient/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/xaogao/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "(, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
