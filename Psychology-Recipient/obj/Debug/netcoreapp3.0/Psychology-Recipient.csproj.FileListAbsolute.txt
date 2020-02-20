@@ -1,0 +1,14 @@
+/home/xaogao/Documents/Psychology-Recipient/Psychology-Recipient/bin/Debug/netcoreapp3.0/Psychology-Recipient
+/home/xaogao/Documents/Psychology-Recipient/Psychology-Recipient/bin/Debug/netcoreapp3.0/Psychology-Recipient.deps.json
+/home/xaogao/Documents/Psychology-Recipient/Psychology-Recipient/bin/Debug/netcoreapp3.0/Psychology-Recipient.runtimeconfig.json
+/home/xaogao/Documents/Psychology-Recipient/Psychology-Recipient/bin/Debug/netcoreapp3.0/Psychology-Recipient.runtimeconfig.dev.json
+/home/xaogao/Documents/Psychology-Recipient/Psychology-Recipient/bin/Debug/netcoreapp3.0/Psychology-Recipient.dll
+/home/xaogao/Documents/Psychology-Recipient/Psychology-Recipient/bin/Debug/netcoreapp3.0/Psychology-Recipient.pdb
+/home/xaogao/Documents/Psychology-Recipient/Psychology-Recipient/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
+/home/xaogao/Documents/Psychology-Recipient/Psychology-Recipient/bin/Debug/netcoreapp3.0/RabbitMQ.Client.dll
+/home/xaogao/Documents/Psychology-Recipient/Psychology-Recipient/obj/Debug/netcoreapp3.0/Psychology-Recipient.csprojAssemblyReference.cache
+/home/xaogao/Documents/Psychology-Recipient/Psychology-Recipient/obj/Debug/netcoreapp3.0/Psychology-Recipient.AssemblyInfoInputs.cache
+/home/xaogao/Documents/Psychology-Recipient/Psychology-Recipient/obj/Debug/netcoreapp3.0/Psychology-Recipient.AssemblyInfo.cs
+/home/xaogao/Documents/Psychology-Recipient/Psychology-Recipient/obj/Debug/netcoreapp3.0/Psychology-Recipient.csproj.CopyComplete
+/home/xaogao/Documents/Psychology-Recipient/Psychology-Recipient/obj/Debug/netcoreapp3.0/Psychology-Recipient.dll
+/home/xaogao/Documents/Psychology-Recipient/Psychology-Recipient/obj/Debug/netcoreapp3.0/Psychology-Recipient.pdb
