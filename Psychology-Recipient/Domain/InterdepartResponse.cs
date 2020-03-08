@@ -8,10 +8,12 @@ namespace Psychology_Recipient.Domain
         {
             Id = id;
             InterdepartStatusId = statusId;
-            Request = DateTime.Now;
+
+            DateTime theDate = DateTime.Now;
+            Request = theDate.ToString("yyyy-MM-dd H:mm:ss");
         }
         public int Id { get; set; }
         public int InterdepartStatusId { get; set; }
-        public DateTime Request { get; set; }
+        public string Request { get; set; }
     }
 }

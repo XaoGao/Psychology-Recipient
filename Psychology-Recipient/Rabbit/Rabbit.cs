@@ -57,7 +57,7 @@ namespace Psychology_Recipient.Rabbit
             if (interdepart.Number.Length != 6)
                 return false;
             
-            if (interdepart.Number.Length != 4)
+            if (interdepart.Series.Length != 4)
                 return false;
             
             return true;
